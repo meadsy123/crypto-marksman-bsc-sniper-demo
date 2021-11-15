@@ -1,0 +1,24 @@
+[
+  {
+    "symbol": "WBNB",
+    "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+    "decimals": "18"
+  },
+  {
+    "symbol": "BUSD",
+    "address": "0x78867BbEeF44f2326bF8DDd1941a4439382EF2A7",
+    "decimals": "18"
+  },
+  {
+    "symbol": "USDT",
+    "token_name": "USDT",
+    "address": "0x7ef95a0FEE0Dd31b22626fA2e10Ee6A223F8a684",
+    "decimals": "18"
+  },
+  {
+    "symbol": "DAI",
+    "token_name": "DAI",
+    "address": "0x8a9424745056Eb399FD19a0EC26A14316684e274",
+    "decimals": "18"
+  }
+]
