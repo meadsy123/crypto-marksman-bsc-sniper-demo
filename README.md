@@ -179,8 +179,6 @@ Once you have the tx you can search your transactions up on 'https://testnet.bsc
 <H2>Author</H2>
 
 If you have any questions you can contact me via telegram: meadzy
-<br> </br>
-Donations: 0x4B4fB57652F1B87db1dC88e1E2Fbb85c85a60895
 
 <br> </br>
 <H2>Disclosure</H2>
