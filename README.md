@@ -13,7 +13,7 @@ If you have any questions or inquiries, you can contact me via telegram: <b>mead
 
 0. Read prerequisites
 
-1. Download the latest release or download "configfile.py", "tokens.json", "crypto_marksman.exe" from the repository.
+1. Download the latest release or download "configfile.py", "tokens.json", "main.exe" from the repository.
 
 
 2. Open "configfile.py" (with notepad for instance) and add your ethereum address and personal key at the bottom of the file between the quotation marks('').
@@ -24,7 +24,7 @@ my_pk = ''
 </pre>
 
 
-3. Run "crypto_marksman.exe"
+3. Run "main.exe"
 
 - Make sure the three files are in the same folder otherwise this program will not run.
 
